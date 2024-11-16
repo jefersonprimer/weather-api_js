@@ -1,4 +1,5 @@
 ##Image of Software
+<br>
 #WeatherAPI
 ![Project Logo](./img/weather.png)
 
