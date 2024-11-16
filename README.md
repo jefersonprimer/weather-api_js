@@ -1,5 +1,5 @@
 ##Image of Software
-###Stopwatch
+#WeatherAPI
 ![Project Logo](./img/weather.png)
 
 ## How to clone and run the project locally
