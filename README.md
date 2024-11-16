@@ -1,6 +1,6 @@
 <h1><strong>Image of Software</strong></h1>
 <h2>WeatherAPI</h2>
-![Project Logo](./img/weather.png)
+<img src="./img/weather.png">
 
 ## How to clone and run the project locally
 1. **Clone the repository**
